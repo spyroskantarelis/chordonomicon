@@ -5,3 +5,5 @@ Chordonomicon is a very large scale dataset featuring the symbolic representatio
 
 The full dataset can be downloaded from here:
 https://huggingface.co/datasets/ailsntua/Chordonomicon
+
+For a detailed description of the Chordonomicon Dataset, please see our paper on arXiv [https://doi.org/10.48550/arXiv.2410.22046]. If you use this dataset, kindly cite the paper to acknowledge the work.
