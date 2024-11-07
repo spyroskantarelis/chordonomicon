@@ -7,3 +7,10 @@ The full dataset can be downloaded from here:
 https://huggingface.co/datasets/ailsntua/Chordonomicon
 
 For a detailed description of the Chordonomicon Dataset, please see our paper on arXiv [https://doi.org/10.48550/arXiv.2410.22046]. If you use this dataset, kindly cite the paper to acknowledge the work.
+
+@article{kantarelis2024chordonomicon,
+  title={CHORDONOMICON: A Dataset of 666,000 Songs and their Chord Progressions},
+  author={Kantarelis, Spyridon and Thomas, Konstantinos and Lyberatos, Vassilis and Dervakos, Edmund and Stamou, Giorgos},
+  journal={arXiv preprint arXiv:2410.22046},
+  year={2024}
+}
