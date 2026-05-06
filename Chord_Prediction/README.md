@@ -178,6 +178,15 @@ Human-readable CSV versions are saved alongside in `data/vocabs/`.
 
 ---
 
+## Approximate number of parameters
+
+| Tokens | RNN   | GRU   | LSTM  |
+| ------ | ----- | ----- | ----- |
+| 1      | 1.12M | 1.26M | 1.33M |
+| 3      | 449K  | 605K  | 683K  |
+| 4      | 354K  | 518K  | 600K  |
+
+
 ## Using Run.py
 
 `Run.py` is a convenience script — edit the `cmd` and `cmd2` lists to configure training and evaluation, then run:
