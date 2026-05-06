@@ -142,6 +142,7 @@ python Model_Evaluation.py \
 | `--save_dir` | `./results` | Directory for JSON results |
 | `--batch_size` | `4096` | Batch size |
 | `--top_n` | `10` | Number of top mismatches to print |
+| `--device` | auto | `cuda` or `cpu` |
 | `--full_dataset` | off | Evaluate on `second_dataset_path` instead of test split |
 
 ### Outputs
