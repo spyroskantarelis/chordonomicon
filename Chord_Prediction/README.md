@@ -49,6 +49,7 @@ An RNN-based chord prediction system trained on the Chordonomicon dataset. Given
 ## Step 1 — Preprocess the dataset
 
 Run `Chord_Embeddings.py` once to build all vocabularies and encoded sequence files.
+
 Before running, make sure chordonomicon_v2.csv is placed in the data/ directory (create it manually if it doesn't exist yet).
 
 ```bash
