@@ -5,7 +5,7 @@ Chordonomicon is a very large scale dataset containing containing over 666,000 s
 
 # Next Chord Prediction Benchmark
 
-An RNN-based chord prediction system trained on the Chordonomicon dataset. Given a sequence of chords, the model predicts the next chord. Three chord representations are supported — flat token, triad (root + qualex + bass), and tetrad (root + quality + extensions + bass) — and three recurrent architectures — RNN, GRU, LSTM.
+An next chord prediction system trained on the Chordonomicon dataset. Given a sequence of chords, the model predicts the next chord. Three chord representations are supported — flat token, triad (root + qualex + bass), and tetrad (root + quality + extensions + bass) — and three recurrent architectures — RNN, GRU, LSTM.
 
 ---
 
